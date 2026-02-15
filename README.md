@@ -29,29 +29,12 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdializmastan&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdializmastan&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🐍 Advanced Python Development  
 - 🔐 Security Research & Labs  
 - ⚙ Automation Tools  
 - 🧠 Continuous Skill Improvement  
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahdializmastan&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
