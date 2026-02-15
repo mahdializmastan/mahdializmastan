@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Security Learner | Automation Builder</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=200&section=header&text=Nothing%is%impenetrable.&fontSize=50&fontColor=00ff00&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nothing%20is%20impenetrable.&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
