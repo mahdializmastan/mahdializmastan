@@ -33,8 +33,7 @@
   <a href="https://ubuntu.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="65"/></a> 
   &nbsp;&nbsp;&nbsp; 
   <a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="65"/></a> 
-  &nbsp;&nbsp;&nbsp; 
-  <a href="https://www.comptia.org/certifications/network"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" width="65"/></a> 
+  &nbsp;&nbsp;&nbsp;
 </p>
 
 
