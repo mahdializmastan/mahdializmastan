@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Security Learner | Automation Builder</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahdi%20Alizmastan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=200&section=header&text=Cyber%20Security%20Learner&fontSize=40&fontColor=00ff00&animation=twinkling"/>
 </p>
 
 ---
