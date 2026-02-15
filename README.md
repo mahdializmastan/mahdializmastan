@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer | Security Learner | Automation Builder</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahdi%20Alizmastan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
