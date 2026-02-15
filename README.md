@@ -13,7 +13,8 @@
 - 💻 Python Developer with focus on clean and practical code  
 - 🔐 Cyber Security Student (Ethical & Defensive Security)  
 - ⚙ Interested in Automation & System Level Projects  
-- 🐧 Linux Environment Enthusiast  
+- 🐧 Linux Environment Enthusiast
+- ⚙ Interested in virus recognition 
 
 ---
 
@@ -44,7 +45,9 @@
 
 - 🐍 Advanced Python Development  
 - 🔐 Security Research & Labs  
-- ⚙ Automation Tools  
+- ⚙ Automation Tools
+- 💻 Learning AI
+- 🐧 Building chatbots  
 - 🧠 Continuous Skill Improvement  
 
 ---
